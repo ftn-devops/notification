@@ -1,4 +1,4 @@
-package com.nadjagv.notificationservice.messaging;
+package ftn.devops.notification;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Getter;
